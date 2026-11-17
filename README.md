@@ -123,7 +123,7 @@ int main(void)
 
 # Output 
 ## STM32 Board
-<img width="1600" height="1200" alt="WhatsApp Image 2026-11-17 at 2 11 14 PM" src="https://github.com/user-attachments/assets/ddbfc224-eb0a-482a-9714-1b142ca09b12" />
+<img width="1600" height="1200" alt="WhatsApp Image 2026-11-17 at 2 16 27 PM" src="https://github.com/user-attachments/assets/48e3f599-d6e1-4e69-a6bc-c757d9e11508" />
 
 ## STM32 Cube Programmer
 <img width="1363" height="739" alt="Screenshot 2026-11-17 132845" src="https://github.com/user-attachments/assets/26178c97-b94e-4029-93d6-b7f1a5b2986d" />
